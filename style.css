@@ -5,7 +5,7 @@
 }
 
 header {
-  display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 10px;
   background-color: rgb(12, 1, 1);
@@ -17,9 +17,9 @@ nav {
 }
 
 nav a {
-  font-size: 10px;
+  font-size: 14px;
   text-decoration: none;
-  line-height: 2;
+  line-height: 3;
   color: rgb(252, 249, 249);
 }
 
@@ -27,8 +27,12 @@ nav a:hover {
   background-color: rgb(104, 108, 109);
 }
 
-.social panel a {
-
+.Geografus {
+  color: rgb(69, 17, 192);
+  justify-content: center;
 }
 
+body {
+  background-image: "./file-20210111-23-bqsfwl.jpg";
+}
 
