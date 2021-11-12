@@ -51,7 +51,7 @@ main {
 }
 
 .country-main {
-  background-image: url(Stars-Wallpapers-HD-Wallpapers\,-Backgrounds\,-Images\,-Art-.jpg);
+  background-image: url("./stars-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgb(252, 248, 249);
